@@ -1,0 +1,11 @@
+{
+	"name": "Stop Spam",
+	"uri": "https://q2apro.com/plugins/stop-spam",
+	"description": "An easy to use customizable captcha with a honeypot that keeps 99 % of the spam away.",
+	"version": "1.1",
+	"date": "2011-12-06",
+	"author": "q2apro.com",
+	"author_uri": "https://www.q2apro.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
